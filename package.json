@@ -1,8 +1,16 @@
 {
-  "name": "mdb-react-template",
-  "version": "4.0.0",
-  "description": "template for mdb-react-ui-kit",
-  "private": true,
+  "name": "react-profiles",
+  "version": "1.0.0",
+  "description": "Responsive Profiles built with Bootstrap 5. Lots of templates such as card profile, user profile, profile form, with followers, avatars, comments, stats, social media and many more.",
+  "private": false,
+  "homepage": "https://mdbootstrap.com/docs/react/extended/profiles/",
+  "bugs": {
+    "url": "https://github.com/mdbootstrap/react-profiles/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mdbootstrap/react-profiles.git"
+  },
   "dependencies": {
     "mdb-react-ui-kit": "^4.0.0",
     "react": "^18.1.0",
@@ -18,8 +26,15 @@
     "eject": "react-scripts eject"
   },
   "keywords": [
+    "bootstrap",
+    "navigation",
+    "bootstrap5",
+    "responsive-design",
+    "bootstrap-template",
     "template",
-    "react"
+    "react",
+    "profiles",
+    "react-profiles"
   ],
   "author": "MDBootstrap",
   "license": "MIT",

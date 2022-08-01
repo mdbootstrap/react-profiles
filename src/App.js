@@ -15,7 +15,7 @@ export default function App() {
           eCommerce profile card
         </MDBBtn>
       </Link>
-      <Link to="/user-profile">
+      <Link to="/profile-page">
         <MDBBtn className="m-2">
           User profile page template
         </MDBBtn>

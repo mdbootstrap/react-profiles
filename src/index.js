@@ -7,7 +7,7 @@ import { BrowserRouter, Route, Routes } from 'react-router-dom';
 
 import App from './App';
 import ECommerce from './ecommerce/ECommerce';
-import UserProfile from './userProfile/UserProfile';
+import ProfilePage from './profilePage/ProfilePage';
 import AttendingUsers from './attendingUsers/AttendingUsers';
 import PersonalProfile from './personalProfile/PersonalProfile';
 import EditButton from './editButton/EditButton';
@@ -23,7 +23,7 @@ root.render(
         <Route path="/" element={<App />} />
         <Route path="/basic" element={<Basic />} />
         <Route path="/ecommerce" element={<ECommerce />} />
-        <Route path="/user-profile" element={<UserProfile />} />
+        <Route path="/profile-page" element={<ProfilePage />} />
         <Route path="/attending-users" element={<AttendingUsers />} />
         <Route path="/personal-profile" element={<PersonalProfile />} />
         <Route path="/edit-button" element={<EditButton />} />

@@ -1,6 +1,6 @@
 {
-  "name": "react-profiles",
-  "version": "1.0.0",
+  "name": "@mdbootstrap/react-profiles",
+  "version": "1.0.2",
   "description": "Responsive Profiles built with Bootstrap 5. Lots of templates such as card profile, user profile, profile form, with followers, avatars, comments, stats, social media and many more.",
   "private": false,
   "bugs": {

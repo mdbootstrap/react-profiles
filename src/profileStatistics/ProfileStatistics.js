@@ -1,5 +1,4 @@
 import React from 'react';
-import './profileStatistics.css';
 import { MDBCol, MDBContainer, MDBRow, MDBCard, MDBCardText, MDBCardBody, MDBCardImage, MDBBtn, MDBTypography, MDBIcon } from 'mdb-react-ui-kit';
 
 export default function ProfileStatistics() {
@@ -18,7 +17,7 @@ export default function ProfileStatistics() {
                 <MDBCardText className="text-muted mb-4">
                   @Programmer <span className="mx-2">|</span> <a href="#!">mdbootstrap.com</a>
                 </MDBCardText>
-                <div class="mb-4 pb-2">
+                <div className="mb-4 pb-2">
                   <MDBBtn outline floating>
                     <MDBIcon fab icon="facebook" size="lg" />
                   </MDBBtn>

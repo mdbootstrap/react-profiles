@@ -3,7 +3,6 @@
   "version": "1.0.0",
   "description": "Responsive Profiles built with Bootstrap 5. Lots of templates such as card profile, user profile, profile form, with followers, avatars, comments, stats, social media and many more.",
   "private": false,
-  "homepage": "https://mdbootstrap.com/docs/react/extended/profiles/",
   "bugs": {
     "url": "https://github.com/mdbootstrap/react-profiles/issues"
   },

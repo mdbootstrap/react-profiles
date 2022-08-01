@@ -1,5 +1,4 @@
 import React from 'react';
-import './userProfile.css';
 import { 
   MDBCol, 
   MDBContainer, 

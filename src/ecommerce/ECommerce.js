@@ -1,5 +1,4 @@
 import React from 'react';
-import './ecommerce.css';
 import { MDBCol, MDBContainer, MDBRow, MDBCard, MDBCardText, MDBCardBody, MDBCardImage, MDBBtn, MDBTypography, MDBIcon } from 'mdb-react-ui-kit';
 
 export default function ECommerce() {

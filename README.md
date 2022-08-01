@@ -46,7 +46,7 @@ export default function Basic() {
                         <p className="mb-0">8.5</p>
                       </div>
                     </div>
-                    <div class="d-flex pt-1">
+                    <div className="d-flex pt-1">
                       <MDBBtn outline className="me-1 flex-grow-1">Chat</MDBBtn>
                       <MDBBtn className="flex-grow-1">Follow</MDBBtn>
                     </div>

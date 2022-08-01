@@ -1,5 +1,4 @@
 import React from 'react';
-import './attendingUsers.css';
 import {
   MDBCol,
   MDBContainer,
